@@ -87,6 +87,10 @@ p {
 label:hover {
     background-color: #aaa; 
 }
+label:active {
+    background-color: #FEFEFE;
+    border: 1px solid #007bff; 
+}
 @media screen and (max-width: 900px){
     .slider {
         max-width: 80vw;
